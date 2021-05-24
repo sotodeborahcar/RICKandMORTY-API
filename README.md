@@ -12,4 +12,4 @@
 - JavaScript
 - API REST
 
-El diseño del trabajo se encuentra en el siguiente LINK ➡️ [aqui](https://sotodeborahcar.github.io/clase75-API/)
+El diseño del trabajo se encuentra en el siguiente LINK ➡️ [aqui](https://sotodeborahcar.github.io/RICKandMORTY-API/)
